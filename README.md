@@ -1,6 +1,6 @@
 # Robotics Learning Resources
 
-Curated handouts, roadmaps, and reference guides for students learning robotics, maintained by Prof. Xian (Shawn) Li, Department of Electrical and Computer Engineering, Northeastern University.
+Curated handouts, roadmaps, and reference guides for students learning robotics, maintained by Dr. Xian (Shawn) Li.
 
 These materials support self-study and the robotics courses taught in Northeastern ECE, including EECE 5550 Mobile Robotics, EECE 5554 Robotics Sensing and Navigation, and Assistive Robotics. Anyone is welcome to use them.
 
@@ -8,7 +8,7 @@ These materials support self-study and the robotics courses taught in Northeaste
 
 | Resource | Format | Level | Original source |
 |----------|--------|-------|-----------------|
-| [Becoming a Robotics Engineer: A Six-Month Self-Study Roadmap](handouts/Robotics_Engineer_6_Month_Roadmap_Handout.pdf) | PDF handout | Beginner to intermediate | [Ronin (@deronin_) on X](https://x.com/deronin_/status/2095180126359105955) |
+| [Becoming a Robotics Engineer: A Six-Month Self-Study Roadmap](handouts/Becoming_a_Robotics_Engineer.pdf) | PDF handout | Beginner to intermediate | [Ronin (@deronin_) on X](https://x.com/deronin_/status/2095180126359105955) |
 
 More resources will be added over time.
 
@@ -29,8 +29,9 @@ More resources will be added over time.
 ```
 robotics-resources/
 ├── README.md
+├── LICENSE
 └── handouts/
-    └── Robotics_Engineer_6_Month_Roadmap_Handout.pdf
+    └── Becoming_a_Robotics_Engineer.pdf
 ```
 
 ## Credit and attribution
