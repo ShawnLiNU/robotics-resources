@@ -2,25 +2,22 @@
 
 Curated handouts, roadmaps, and reference guides for students learning robotics, maintained by Dr. Xian (Shawn) Li.
 
-These materials support self-study and the robotics courses taught in Northeastern ECE, including EECE 5550 Mobile Robotics, EECE 5554 Robotics Sensing and Navigation, and Assistive Robotics. Anyone is welcome to use them.
+These materials support self-study and the robotics courses taught in Northeastern ECE, including EECE 5550 Mobile Robotics, EECE 5554 Robotics Sensing and Navigation, and EECE 5552 Assistive Robotics. Anyone is welcome to use them.
 
 ## Resources
 
 | Resource | Format | Level | Original source |
 |----------|--------|-------|-----------------|
 | [Becoming a Robotics Engineer: A Six-Month Self-Study Roadmap](handouts/Becoming_a_Robotics_Engineer.pdf) | PDF handout | Beginner to intermediate | [Ronin (@deronin_) on X](https://x.com/deronin_/status/2095180126359105955) |
+| [TurtleBot 4 Resource Guide](handouts/TurtleBot4_Resource_Guide.pdf) | PDF handout | Beginner to intermediate | Original, written for this repository |
 
 More resources will be added over time.
-
-## About the handouts
-
-**Six-Month Robotics Roadmap.** A step-by-step plan that starts from basic electronics and ends with robot learning and portfolio building. Each month includes curated free and low-cost resources, key concepts, practice projects, and a milestone checklist. Topics cover electronics and microcontrollers, CAD and 3D printing, ROS 2 and simulation, control and kinematics, perception, and imitation learning with the SO-101 arm. Prices and links were checked by the original author in September 2026.
 
 ## How to use these materials
 
 **For self-study.** Work through a handout at your own pace. Focus on the practice tasks, since building and debugging real systems teaches more than reading about them.
 
-**For coursework.** Use the relevant sections as background reading or as a refresher before a lab. Each handout notes which sections relate to specific courses.
+**For coursework.** Use the relevant sections as background reading or as a refresher before a lab. Some handouts note which sections relate to specific courses.
 
 **Keep a record of your work.** Put every project in its own GitHub repository with a README that includes a photo or video, a wiring or architecture description, your measured results, and a short section on what broke and how you fixed it.
 
@@ -31,7 +28,8 @@ robotics-resources/
 ├── README.md
 ├── LICENSE
 └── handouts/
-    └── Becoming_a_Robotics_Engineer.pdf
+    ├── Becoming_a_Robotics_Engineer.pdf
+    └── TurtleBot4_Resource_Guide.pdf
 ```
 
 ## Credit and attribution
